@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.26427701.css",
-    "main.js": "/static/js/main.6926ed65.js",
+    "main.css": "/static/css/main.291af82d.css",
+    "main.js": "/static/js/main.fd059b03.js",
     "static/media/Profile.jpg": "/static/media/Profile.2e615cfaba5612ae2b8f.jpg",
-    "static/media/Shivam_Choudhary_Resume.pdf": "/static/media/Shivam_Choudhary_Resume.40c8cbdcf56b1af97c43.pdf",
+    "static/media/Shivam_Choudhary_Resume.pdf": "/static/media/Shivam_Choudhary_Resume.29eb2ac73a9b779368ca.pdf",
     "static/media/banner-women2.png": "/static/media/banner-women2.07cf338a1d863903b9c1.png",
     "static/media/techimage.png": "/static/media/techimage.298a99624210a345bab9.png",
     "static/media/testimonial-2.webp": "/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
@@ -16,17 +16,17 @@
     "static/media/redux.png": "/static/media/redux.5a9c5274e84215aca629.png",
     "static/media/node.webp": "/static/media/node.4e97577b981eca678bfe.webp",
     "static/media/testimonial-3.webp": "/static/media/testimonial-3.677360499dd5a97f022a.webp",
-    "static/media/portfolio.svg": "/static/media/portfolio.bff8b39169bade93c32b.svg",
-    "static/media/testimonials.svg": "/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
-    "static/media/contact.svg": "/static/media/contact.acdd342ba1db0f98c7cd.svg",
+    "static/media/portfolio.svg": "/static/media/portfolio.2f31f4be113e35cc3442.svg",
+    "static/media/testimonials.svg": "/static/media/testimonials.07294ae9606e6d7ea071.svg",
+    "static/media/contact.svg": "/static/media/contact.ec60abf53c38c2593f7e.svg",
     "static/media/testimonial-1.webp": "/static/media/testimonial-1.8e05fd5dbc71387931b5.webp",
-    "static/media/about.svg": "/static/media/about.192e39ff229e6eb06083.svg",
+    "static/media/about.svg": "/static/media/about.70a8290c961c47c208b5.svg",
     "index.html": "/index.html",
-    "main.26427701.css.map": "/static/css/main.26427701.css.map",
-    "main.6926ed65.js.map": "/static/js/main.6926ed65.js.map"
+    "main.291af82d.css.map": "/static/css/main.291af82d.css.map",
+    "main.fd059b03.js.map": "/static/js/main.fd059b03.js.map"
   },
   "entrypoints": [
-    "static/css/main.26427701.css",
-    "static/js/main.6926ed65.js"
+    "static/css/main.291af82d.css",
+    "static/js/main.fd059b03.js"
   ]
 }
